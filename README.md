@@ -1,46 +1,36 @@
+<br clear="both">
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
+<h2 align="left">Welcome to my Github profile!</h2>
 
-### Technologies and tools:
+###
 
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/141371854/359706129-3dd95ed7-9349-404f-8506-a3ad9a4cf5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2MzE2MjksIm5iZiI6MTcyOTYzMTMyOSwicGF0aCI6Ii8xNDEzNzE4NTQvMzU5NzA2MTI5LTNkZDk1ZWQ3LTkzNDktNDA0Zi04NTA2LWEzYWQ5YTRjZjVmYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyMlQyMTA4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjBjYWE4MTg3MTg2ZTVmYzczN2VjMTdhNTkzMjFlZjc2MmRjYTA3Nzk1OTE5YTgwZTAyMGE3YzI0NWMwMGE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.m2t3jXFFkKJkuOeIMO9YgTQDI1oqJulk2BaujYXqeqQ"  />
 
- 
-  ### Technologies and tools:
-    
-<div style="display: inline_block"><br>
-<img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Cris-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt= "Cris-Mysql" height="60" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-  <img align="center" alt= "Cris-Mysql" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">       
-<img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+###
 
-</div><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-### GitHub Stats
+###
+
+<div align="left">
+</div>
+
+###
 
 <div align="center">
-<div align="center" style="display: flex; justify-content: center;">
-<a href="https://github.com/anacristinaneves">
-  <img height="60%" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-  <img height="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-### Contact 
- 
-### Contact
-
-<div> 
-<a href="https://www.linkedin.com/in/cristinanevesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:anacristinabezerra.neves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- 
- 
-  <a href="mailto:anacristinabezerra.neves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+###
